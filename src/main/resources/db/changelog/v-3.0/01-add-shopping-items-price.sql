@@ -1,0 +1,3 @@
+ALTER TABLE shopping_items
+ADD COLUMN price DOUBLE PRECISION;
+GO
